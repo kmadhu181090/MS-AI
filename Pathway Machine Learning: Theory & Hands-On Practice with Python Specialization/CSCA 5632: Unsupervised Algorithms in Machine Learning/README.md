@@ -6,8 +6,7 @@ https://youtu.be/w5QH4oOOW_U
 
 GitHub Repository:
 
-https://github.com/kmadhu181090/MS-AI/tree/main/Pathway%20Machine%20Learning%3A%20Theory%20%26%20Hands-
-On%20Practice%20with%20Python%20Specialization/CSCA%205632%3A%20Unsupervised%20Algorithms%20in%20Machine%20Learning
+https://github.com/kmadhu181090/MS-AI/tree/main/Pathway%20Machine%20Learning%3A%20Theory%20%26%20HandsOn%20Practice%20with%20Python%20Specialization/CSCA%205632%3A%20Unsupervised%20Algorithms%20in%20Machine%20Learning
 
 Project Description:
 Online Retail dataset is taken from the kaggle wherein they have taken the dataset from UCI Irvine Machine learning repository.
