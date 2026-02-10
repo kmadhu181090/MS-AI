@@ -8,6 +8,9 @@ GitHub Repository:
 
 https://github.com/kmadhu181090/MS-AI/tree/main/Pathway%20Machine%20Learning%3A%20Theory%20%26%20Hands-On%20Practice%20with%20Python%20Specialization/CSCA%205632%3A%20Unsupervised%20Algorithms%20in%20Machine%20Learning
 
+The project is organized into 2 Jupyter notebooks.One covering Unsupervised algorithms and dimensionality reduction techniques 
+and the other focused on Market Basket Analysis.Both can be found in the GitHub repository.(link mentioned above)
+
 Project Description:
 Online Retail dataset is taken from the kaggle wherein they have taken the dataset from UCI Irvine Machine learning repository.
 This dataset contains transactional data which contains all the transactions between 01/12/2010 to 09/12/2011 for a UK based and 
