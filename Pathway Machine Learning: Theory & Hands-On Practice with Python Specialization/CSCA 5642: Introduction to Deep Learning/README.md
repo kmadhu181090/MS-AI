@@ -6,9 +6,7 @@ https://github.com/kmadhu181090/MS-AI/tree/542d7fe5d59129ede2200e924c1cd4b2bb52e
 
 Video Link:
 
-[https://youtu.be/k-8KcPKCzsY](url)
-
-[https://www.youtube.com/watch?v=k-8KcPKCzsY](url)
+https://www.youtube.com/watch?v=k-8KcPKCzsY
 
 Data Source Link: https://ai.stanford.edu/~amaas/data/sentiment/
 
