@@ -10,6 +10,8 @@ Video Link:
 
 Data Source Link: https://ai.stanford.edu/~amaas/data/sentiment/
 
+Can also be downloaded from https://drive.google.com/file/d/1X8oOLAHrCgpaFEgNOOkJ-eGrz4BgvQNC/view?usp=drive_link
+
 Project Steps:
 
 1.Project Description and Objective
