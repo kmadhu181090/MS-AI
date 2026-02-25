@@ -10,7 +10,7 @@ Video Link:
 
 [https://www.youtube.com/watch?v=k-8KcPKCzsY](url)
 
-Data Source Link: [https://ai.stanford.edu/~amaas/data/sentiment/](url)
+Data Source Link: https://ai.stanford.edu/~amaas/data/sentiment/
 
 Project Steps:
 
