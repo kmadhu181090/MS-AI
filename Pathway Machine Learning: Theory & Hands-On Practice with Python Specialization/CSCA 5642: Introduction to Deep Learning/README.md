@@ -2,7 +2,7 @@ All the deliverables for this project can be found in the below links:
 
 Github Link:
 
-https://github.com/kmadhu181090/MS-AI/tree/542d7fe5d59129ede2200e924c1cd4b2bb52ec28/Pathway%20Machine%20Learning%3A%20Theory%20%26%20Hands-On%20Practice%20with%20Python%20Specialization/CSCA%205642%3A%20Introduction%20to%20Deep%20Learning
+https://github.com/kmadhu181090/MS-AI/tree/main/Pathway%20Machine%20Learning%3A%20Theory%20%26%20Hands-On%20Practice%20with%20Python%20Specialization/CSCA%205642%3A%20Introduction%20to%20Deep%20Learning
 
 Video Link:
 
